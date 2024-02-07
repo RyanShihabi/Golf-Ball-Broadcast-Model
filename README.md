@@ -7,12 +7,12 @@ This is a model capable of detecting golf balls on a PGA broadcast
 - The list of the youtube ids for the videos used to train this model have been included
 
 ## Model
-- YOLOv8 Nano
+- YOLOv8 Nano (3M parameters)
 
 ## Training
 - Recall: 
 - Precision: 
-- Trained on a single 3080
+- Trained on an RTX 3080 10GB
 
 ## Experimental
 - Optical Flow Estimation was used to counteract the camera centering the moving ball in the same position
