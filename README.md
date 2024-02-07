@@ -10,8 +10,8 @@ This is a model capable of detecting golf balls on a PGA broadcast
 - YOLOv8 Nano (3M parameters)
 
 ## Training
-- Recall: 
-- Precision: 
+- Recall: 94%
+- Precision: 96%
 - Trained on an RTX 3080 10GB
 
 ## Experimental
