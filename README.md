@@ -2,6 +2,8 @@
 
 This is a model capable of detecting golf balls on a PGA broadcast
 
+https://ryanshihabi.github.io/tsc-website/
+
 ## Dataset
 - Due to the small bounding boxes of the golf ball, the images were sliced via SAHI to cut the images into sections
 - The list of the youtube ids for the videos used to train this model have been included
