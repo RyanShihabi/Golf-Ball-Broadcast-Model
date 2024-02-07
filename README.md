@@ -12,7 +12,7 @@ This is a model capable of detecting golf balls on a PGA broadcast
 ## Training
 - Recall: 94%
 - Precision: 96%
-- Trained on an RTX 3080 10GB
+- Hardware: RTX 3080 10GB
 
 ## Experimental
 - Optical Flow Estimation was used to counteract the camera centering the moving ball in the same position
