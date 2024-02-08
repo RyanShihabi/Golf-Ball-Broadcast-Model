@@ -18,4 +18,7 @@ https://ryanshihabi.github.io/tsc-website/
 
 ## Experimental
 - Optical Flow Estimation was used to counteract the camera centering the moving ball in the same position
-- I provided an example snippet of uploading XML annotations 
+- I provided an example snippet of uploading XML annotations
+
+## Inference
+- Note that this model was trained in slices via SAHI so predict images accordingly
